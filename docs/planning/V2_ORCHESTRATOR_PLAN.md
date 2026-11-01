@@ -1,6 +1,6 @@
 # Jangus v2: orchestrator + specialist agents (DRAFT plan, 2026-11-01)
 
-Status: proposal only. Not an authorized phase. No runtime code changes in this branch.
+Status: proposal only. Superseded in detail by [docs/v2/](../v2/PRD.md) and [ADR-009](../architecture/decisions/009-v2-orchestrator-and-agents.md). Not an authorized phase.
 A design change here needs matching updates to PRD, MVP, SYSTEM.md and a new ADR before implementation (see AGENTS.md).
 
 ## Vision
